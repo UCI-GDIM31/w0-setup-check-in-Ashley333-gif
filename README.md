@@ -6,17 +6,17 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 ## Introduction
 
 1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
-
+My Chinese name is Zhifei Chen and you can call me Ashley. My pronous is she/her. I like ryhthm games, moba games and FPS games, such as Phigros, Muse Dash, Apex Legends, Identity V and so on. I want to transfer into the GDIM major and I've learned a liitle about modeling by using 1234D and Maya. I'd like to build a 2D game with a lot of levels. It just simulates a peoples's whole life. With the game proceeding, the level's difficulty increased which shows the different stage of a people's life.Player will need to collect the props and unlock the door to the next level. Different choosings at each level will lead to different endings.
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
     - [ ] Game Design & Interactive Media
     - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
     - [ ] Art-related major (please specify)
-    - [ ] Undecided
+    - [√] Undecided
     - [ ] Other (please specify)
 
-3. What are you hoping to get out of this class?
-4. What, if anything, are you nervous about for this class?
+3. What are you hoping to get out of this class? The programming skill and ability to code a game by myself.
+4. What, if anything, are you nervous about for this class? I want to get high marks in this class but the score is graded totally based on the work. I don't have a really clear understanding on the criteria. 
 
 ## Prior Experience
 
@@ -39,15 +39,15 @@ For the next questions, a programming or game development concept is presented:
 
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
-1. Game design document
+1. Game design document A document contains the main idea of the whole game
 
-2. Scope management
+2. Scope management N/A
 
-3. Iteration
+3. Iteration N/A
 
-4. Object-Oriented programming
+4. Object-Oriented programming N/A
 
-5. Model-View-Controller architecture
+5. Model-View-Controller architecture N/A
 
 ## Complete!
 
